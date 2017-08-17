@@ -1,0 +1,1 @@
+**Note:** The following code pieces: CDA.java, HelloWorld.java, InterMainDriver.java, InterTest.java, IntraTest.java are from the CS5218 Program Analysis (NUS) assignments. Only the authorship of classes that do the taint analysis (IntrataintAnalysis.java, InterTaintAnalysis.java) belong to this repository.
